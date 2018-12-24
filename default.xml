@@ -729,5 +729,6 @@
   <include name="remove.xml" />
   <include name="arrow.xml" />
   <include name="caf_default.xml" />
+  <include name="honami.xml" />
 	
 </manifest>
