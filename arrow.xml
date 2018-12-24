@@ -23,7 +23,6 @@
   <project path="bionic" name="android_bionic" groups="pdk" remote="arrow" />
   <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="arrow" />
   <project path="device/generic/goldfish" name="android_device_generic_goldfish" remote="arrow" />
-  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="arrow" />
   <project path="frameworks/av" name="android_frameworks_av" groups="pdk" remote="arrow" />
   <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" groups="pdk" remote="arrow" />
   <project path="frameworks/base" name="android_frameworks_base" remote="arrow" />
@@ -38,7 +37,6 @@
   <project path="system/qcom" name="android_system_qcom" remote="arrow" />
   <project path="system/netd" name="android_system_netd" groups="pdk" remote="arrow" />
   <project path="system/security" name="android_system_security" groups="pdk" remote="arrow" />
-  <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="arrow" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="arrow" />
   <project path="system/tools/hidl" name="android_system_tools_hidl" remote="arrow" />
   <project path="system/vold" name="android_system_vold" groups="pdk" remote="arrow" />
