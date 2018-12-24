@@ -10,13 +10,13 @@ familiar with [Git and Repo](https://source.android.com/setup/build/downloading)
 To initialize your local repository, use command:
 
 ```bash
-    repo init -u https://github.com/ArrowOS/android_manifest.git -b arrow-9.x
+    repo init -u https://github.com/Raschad/android_manifest.git -b arrow-9.x
 ```
 
 Then sync up:
 
 ```bash
-    repo sync  -f --force-sync --no-clone-bundle -jX
+    repo sync  -f --force-sync --no-clone-bundle -j16
 ```
 Where X is the thread your CPU can handle.
 
